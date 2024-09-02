@@ -2,6 +2,18 @@
 
 [Indian Food](#Indian Food)
 
+## Breakfast
+
+    Item                           Price
+    Fried Grasshoppers (terrible)  -10
+    (use proper Markdown formatting, not literal text like this)
+
+## Lunch 
+
+
+## Dinner
+
+
 ## Indian Food Menu
 | Name                | Description                                                         | Images                                                                                                          | Price(Baht) |
 |:--------------------|---------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|-------------|
@@ -10,3 +22,13 @@
 | Aloo Gobi           | Potato cauliflower curry                                            | <img src="https://static01.nyt.com/images/2023/12/21/multimedia/ND-Aloo-Gobi-gkwc/ND-Aloo-Gobi-gkwc-square640.jpg" width="300"> | 180฿         |
 | Dal Makhani         | Urad dal, Rajma, butter and spices thick soup.                      | <img src="https://myfoodstory.com/wp-content/uploads/2018/08/Dal-Makhani-New-3.jpg" width="300">                              | 180฿         |
 
+
+
+
+## Beverages
+
+
+
+---
+
+We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.
