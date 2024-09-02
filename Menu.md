@@ -11,4 +11,7 @@
 | **Frittata**            | A versatile Italian egg dish that is similar to an omelette or crustless quiche but with its own unique characteristics. It is typically made by whisking eggs together and then mixing in a variety of ingredients such as vegetables, cheeses, meats, and herbs. | <img src="images/frittata.jpg" width="400">  |    70฿ |
 | **Calzones**            | A popular Italian dish that resembles a folded pizza. Made from pizza dough, a calzone is typically stuffed with a variety of ingredients, then folded in half to create a crescent shape before being baked until golden and crispy on the outside.               | <img src="images/calzones.jpg" width="400">  |    90฿ |
 
-
+## Beverages
+| Name                    | Description                                                                                                                                                                                      | Image                                       | Price |
+|:------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|------:|
+| **Prosecco**             | A sparkling white wine from northern Italy, Prosecco’s popularity has grown massively over the last decade. Today, it’s one of the most famous Italian drinks inside and outside the country.    | <img src="images/prosecco.jpg" width="400"> |   100฿ |
