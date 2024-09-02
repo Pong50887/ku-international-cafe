@@ -1,13 +1,8 @@
 # KU Cafe Menu
 
+[Japanese Menu](#japanese-food)
 
-## Thai Menu
-
-
-## Italian Menu 
-
-
-## Japanese Menu
+## Japanese Food
 
 |Name    | Description | Images | Price(Baht) |
 |:------|:----------|-------------|----:| 
@@ -16,18 +11,9 @@
 | Salmon donburi | Salmon Donburi is a delicious Japanese rice bowl topped with tender salmon fillets with hints of lemon and garlic to make the perfect salty-sweet complement. | ![Salmon donburi](images/SalmonDonburi.jpeg) | 189฿ |
 | Okonomiyaki  | A savory pancake and is made with vegetables, meat, seafood, and other ingredients, cooked on a griddle with flour-based batter and served with special sauce. | ![Okonomiyaki](images/Okonomiyaki.jpeg) | 159฿ |
 
-## Indian Menu
-
-
-## Korean Menu
 
 ## Beverages
 
 |Name    | Description | Images | Price(Baht) |
 |:------|:----------|-------------|----:|
 | Calpis | Calpis is a popular non-carbonated soft drink in Japan that is enjoyed by people of all ages. | <img src="images/Calpis.jpeg" width="300"/> | 25฿ |
-
-
----
-
-We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.
