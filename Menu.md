@@ -1,25 +1,12 @@
 # KU Cafe Menu
+[Thai Food](#thai-food) |
 
+## Thai Food
 
-## Breakfast
-
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
-
-## Lunch 
-
-
-## Dinner
-
-
-## Night Food
-
-
-## Beverages
-
-
-
----
-
-We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.
+| Name          | Description                                                                                                                                                                                                                                                                | Image                                          | Price |
+|:--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|------:|
+| Tom Yum Goong | Tom Yum Goong is a spicy and sour Thai soup made with prawns, lemongrass, kaffir lime leaves, galangal, and Thai chilies. The broth is tangy with lime juice and fish sauce, and it's often garnished with cilantro, offering a vibrant taste of traditional Thai flavors. | <img src="images/tom_yum_goong.jpg" width=400> |  150฿ |
+| Panang Gai    | Panang Gai is a creamy, mildly spicy Thai curry made with tender chicken, rich coconut milk, and fragrant Panang curry paste. It’s flavored with kaffir lime leaves and often garnished with Thai basil, offering a slightly sweet and nutty taste.                        | <img src="images/panang_gai.jpg" width=400>    |   50฿ |
+| Pad Ka Prao   | Pad Ka Prao is a spicy Thai stir-fry made with minced meat (usually pork or chicken), fresh Thai basil, garlic, and chilies. It's savory, aromatic, and often served with rice and a fried egg on top.                                                                     | <img src="images/pad_ka_prao.jpg" width=400>   |   45฿ |
+| Som Tam       | Som Tam is a spicy and tangy Thai green papaya salad made with shredded papaya, chilies, lime, fish sauce, and peanuts. It’s a refreshing dish with a perfect balance of sweet, sour, and spicy flavors.                                                                   | <img src="images/som_tam.jpg" width=400>       |   70฿ |
+| Nam Tok Moo   | Nam Tok Moo is a spicy Thai salad made with grilled pork, tossed with lime juice, fish sauce, chilies, and fresh herbs like mint and cilantro. It's a flavorful dish with a mix of tangy, spicy, and savory notes.                                                         | <img src="images/namtok_moo.jpg" width=400>    |   65฿ |
