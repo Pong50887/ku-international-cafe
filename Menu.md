@@ -1,25 +1,13 @@
 # KU Cafe Menu
+[Korean Food](#korean-food)
 
+## Korean Food
 
-## Breakfast
+| Name            | Description                                                                                                                                                                                                                  | Images                                         | Price |
+|:----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|-------|
+| **Kimchi**      | Kimchi is a traditional Korean fermented dish made from vegetables, primarily napa cabbage, seasoned with a mixture of spices and seasonings, resulting in a flavorful and tangy condiment                                   | <img src="images/Kimchi.jpg" width="300">      | 30฿   |
+| **Bibimbap**    | Bibimbap is a Korean dish consisting of a vibrant assortment of sauteed vegetables, meat, or tofu, served over a bed of rice and often topped with a fried egg, and mixed together with spicy gochujang sauce before eating. | <img src="images/Bibimbap.jpg" width="300">    | 60฿   |
+| **Tteokbokki**  | Tteokbokki is a popular Korean street food made from chewy rice cakes cooked in a spicy and savory gochujang sauce, offering a delightful blend of flavors and textures.                                                     | <img src="images/Tteokbokki.jpg" width="300">  | 120฿  |
+| **Bulgogi**     | a Korean dish consisting of rice topped with sautéed vegetables, chili paste, and beef or other meat, sometimes with the addition of a raw or fried egg.                                                                     | <img src="images/Bulgogi.jpg" width="300">     | 150฿  |
+| **Samgyeopsal** | Samgyeopsal is another staple Korean dish that requires few culinary skills, where chunky slices of pork belly are cooked on a grill at the diners’ table.                                                                   | <img src="images/Samgyeopsal.jpg" width="300"> | 200฿  |
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
-
-## Lunch 
-
-
-## Dinner
-
-
-## Night Food
-
-
-## Beverages
-
-
-
----
-
-We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.
