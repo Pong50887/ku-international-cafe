@@ -2,5 +2,5 @@
 
 | Name                        | Role                           | Github          |
 |:----------------------------|--------------------------------|-----------------|
-| Phimnada Chirachotsuphaphat | [Thai Food](menu.md#thai-food) | [PHIMNADA024](https://github.com/PHIMNADA024) |
+| Phimnada Chirachotsuphaphat | [Thai Food](Menu.md#thai-food) | [PHIMNADA024](https://github.com/PHIMNADA024) |
 
