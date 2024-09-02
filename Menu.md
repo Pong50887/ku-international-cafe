@@ -2,18 +2,12 @@
 [Indian Food](#indian-food) | [Thai Food](#thai-food)
 
 ## Indian Food Menu
-| Name                | Description                                                         | Images                                                                                                          | Price(Baht) |
-|:--------------------|---------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|-------------|
-| Malai Kofta         | Mild gravy with deepfried potato and paneer balls                   | <img src="https://www.indianhealthyrecipes.com/wp-content/uploads/2022/06/malai-kofta-recipe.jpg" width="300"> | 240฿         |
-| Paneer Tikka Masala | paneer in spicy gravy with tomatoes, cream, coconut cream and masala. | <img src="https://www.indianhealthyrecipes.com/wp-content/uploads/2014/11/paneer-tikka-masala-recipe-1.jpg" width="300">      | 250฿         |
-| Aloo Gobi           | Potato cauliflower curry                                            | <img src="https://static01.nyt.com/images/2023/12/21/multimedia/ND-Aloo-Gobi-gkwc/ND-Aloo-Gobi-gkwc-square640.jpg" width="300"> | 180฿         |
-| Dal Makhani         | Urad dal, Rajma, butter and spices thick soup.                      | <img src="https://myfoodstory.com/wp-content/uploads/2018/08/Dal-Makhani-New-3.jpg" width="300">                              | 180฿         |
-
-## Beverages
-| Name        | Description                                                                                         | Images                 | Price(Baht) |
-|:------------|-----------------------------------------------------------------------------------------------------|------------------------|-------------|
-| Masala Chai | ginger, cardamom, nutmeg, cinnamon, cloves, black pepper, black tea leaves, hot water and hot milk. | <img src="https://www.thespicehouse.com/cdn/shop/articles/Chai_Masala_Tea_1200x1200.jpg?v=1606936195" width=300> | 350฿        |
-
+| Name                | Description                                                         | Images                                                                                                                          | Price(Baht) |
+|:--------------------|---------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|-------------|
+| Malai Kofta         | Mild gravy with deepfried potato and paneer balls                   | <img src="https://www.indianhealthyrecipes.com/wp-content/uploads/2022/06/malai-kofta-recipe.jpg" width="400">                  | 240฿         |
+| Paneer Tikka Masala | paneer in spicy gravy with tomatoes, cream, coconut cream and masala. | <img src="https://www.indianhealthyrecipes.com/wp-content/uploads/2014/11/paneer-tikka-masala-recipe-1.jpg" width="400">        | 250฿         |
+| Aloo Gobi           | Potato cauliflower curry                                            | <img src="https://static01.nyt.com/images/2023/12/21/multimedia/ND-Aloo-Gobi-gkwc/ND-Aloo-Gobi-gkwc-square640.jpg" width="400"> | 180฿         |
+| Dal Makhani         | Urad dal, Rajma, butter and spices thick soup.                      | <img src="https://myfoodstory.com/wp-content/uploads/2018/08/Dal-Makhani-New-3.jpg" width="400">                                | 180฿         |
 
 ## Thai Food
 
@@ -26,7 +20,8 @@
 | Nam Tok Moo   | Nam Tok Moo is a spicy Thai salad made with grilled pork, tossed with lime juice, fish sauce, chilies, and fresh herbs like mint and cilantro. It's a flavorful dish with a mix of tangy, spicy, and savory notes.                                                         | <img src="images/namtok_moo.jpg" width=400>    |   65฿ |
 
 ## Beverages
-| Name    | Description                                                                                                                                                                                             | Image                                    | Price |
-|:--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|------:|
-| Cha Yen | Cha Yen is a Thai iced tea made with strongly brewed black tea, sweetened with condensed milk, and served over ice. It has a rich, creamy flavor with a hint of vanilla and a distinctive orange color. | <img src="images/cha_yen.jpg" width=400> |   30฿ |
+| Name    | Description                                                                                                                                                                                             | Image                                                                                                            | Price |
+|:--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|------:|
+| Cha Yen | Cha Yen is a Thai iced tea made with strongly brewed black tea, sweetened with condensed milk, and served over ice. It has a rich, creamy flavor with a hint of vanilla and a distinctive orange color. | <img src="images/cha_yen.jpg" width=400>                                                                         |   30฿ |
+| Masala Chai | ginger, cardamom, nutmeg, cinnamon, cloves, black pepper, black tea leaves, hot water and hot milk. | <img src="https://www.thespicehouse.com/cdn/shop/articles/Chai_Masala_Tea_1200x1200.jpg?v=1606936195" width=400> | 350฿        |
 
