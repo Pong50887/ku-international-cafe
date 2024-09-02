@@ -1,5 +1,5 @@
 # KU Cafe Menu
-[Thai Food](#thai-food) | [Indian Food](#Indian Food)
+[Thai Food](#thai-food) | [Indian Food](#indian-food)
 
 ## Thai Food
 
