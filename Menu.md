@@ -1,7 +1,5 @@
 # KU Cafe Menu
-
-
-[Indian Food](#indian-food) | [Korean Food](#korean-food) | [Thai Food](#thai-food) | [Japanese Food](#japanese-food)
+[Indian Food](#indian-food) | [Italian Food](#italian-food) | [Korean Food](#korean-food) | [Thai Food](#thai-food) | [Japanese Food](#japanese-food)
 
 
 ## Indian Food Menu
@@ -13,15 +11,26 @@
 | Aloo Gobi           | Potato cauliflower curry                                            | <img src="https://static01.nyt.com/images/2023/12/21/multimedia/ND-Aloo-Gobi-gkwc/ND-Aloo-Gobi-gkwc-square640.jpg" width="400"> | 180฿         |
 | Dal Makhani         | Urad dal, Rajma, butter and spices thick soup.                      | <img src="https://myfoodstory.com/wp-content/uploads/2018/08/Dal-Makhani-New-3.jpg" width="400">                                | 180฿         |
 
+## Italian food
+
+| Name                    | Description                                                                                                                                                                                                                                                        | Image                                        |  Price |
+|:------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------:|
+| Risotto             | An Italian dish made by cooking a starchy, short grain rice like arborio with stock until it becomes creamy.                                                                                                                                                       | <img src="images/risotto.jpg" width="400">   |   100฿ |
+| Spaghetti Carbonara | An Italian main course consisting of spaghetti (long thin strands of pasta) with bacon and a creamy sauce made from eggs, Pecorino or Parmesan and black pepper.                                                                                                   | <img src="images/carbonara.jpg" width="400"> |    90฿ |
+| Burrata Salad       | A Burrata Salad is a fresh and vibrant dish that showcases the creamy richness of burrata cheese. Typically served with a mix of ripe, juicy tomatoes, such as heirloom or cherry varieties.                                                                       | <img src="images/burrata.jpg" width="400">   |    80฿ |
+| Frittata            | A versatile Italian egg dish that is similar to an omelette or crustless quiche but with its own unique characteristics. It is typically made by whisking eggs together and then mixing in a variety of ingredients such as vegetables, cheeses, meats, and herbs. | <img src="images/frittata.jpg" width="400">  |    70฿ |
+| Calzones            | A popular Italian dish that resembles a folded pizza. Made from pizza dough, a calzone is typically stuffed with a variety of ingredients, then folded in half to create a crescent shape before being baked until golden and crispy on the outside.               | <img src="images/calzones.jpg" width="400">  |    90฿ |
+
+
 ## Korean Food
 
 | Name            | Description                                                                                                                                                                                                                  | Image                                          | Price |
 |:----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|-------|
-| **Kimchi**      | Kimchi is a traditional Korean fermented dish made from vegetables, primarily napa cabbage, seasoned with a mixture of spices and seasonings, resulting in a flavorful and tangy condiment                                   | <img src="images/Kimchi.jpg" width="400">      | 30฿   |
-| **Bibimbap**    | Bibimbap is a Korean dish consisting of a vibrant assortment of sauteed vegetables, meat, or tofu, served over a bed of rice and often topped with a fried egg, and mixed together with spicy gochujang sauce before eating. | <img src="images/Bibimbap.jpg" width="400">    | 60฿   |
-| **Tteokbokki**  | Tteokbokki is a popular Korean street food made from chewy rice cakes cooked in a spicy and savory gochujang sauce, offering a delightful blend of flavors and textures.                                                     | <img src="images/Tteokbokki.jpg" width="400">  | 120฿  |
-| **Bulgogi**     | a Korean dish consisting of rice topped with sautéed vegetables, chili paste, and beef or other meat, sometimes with the addition of a raw or fried egg.                                                                     | <img src="images/Bulgogi.jpg" width="400">     | 150฿  |
-| **Samgyeopsal** | Samgyeopsal is another staple Korean dish that requires few culinary skills, where chunky slices of pork belly are cooked on a grill at the diners’ table.                                                                   | <img src="images/Samgyeopsal.jpg" width="400"> | 200฿  |
+| Kimchi      | Kimchi is a traditional Korean fermented dish made from vegetables, primarily napa cabbage, seasoned with a mixture of spices and seasonings, resulting in a flavorful and tangy condiment                                   | <img src="images/Kimchi.jpg" width="400">      | 30฿   |
+| Bibimbap    | Bibimbap is a Korean dish consisting of a vibrant assortment of sauteed vegetables, meat, or tofu, served over a bed of rice and often topped with a fried egg, and mixed together with spicy gochujang sauce before eating. | <img src="images/Bibimbap.jpg" width="400">    | 60฿   |
+| Tteokbokki  | Tteokbokki is a popular Korean street food made from chewy rice cakes cooked in a spicy and savory gochujang sauce, offering a delightful blend of flavors and textures.                                                     | <img src="images/Tteokbokki.jpg" width="400">  | 120฿  |
+| Bulgogi     | a Korean dish consisting of rice topped with sautéed vegetables, chili paste, and beef or other meat, sometimes with the addition of a raw or fried egg.                                                                     | <img src="images/Bulgogi.jpg" width="400">     | 150฿  |
+| Samgyeopsal | Samgyeopsal is another staple Korean dish that requires few culinary skills, where chunky slices of pork belly are cooked on a grill at the diners’ table.                                                                   | <img src="images/Samgyeopsal.jpg" width="400"> | 200฿  |
 
 ## Japanese Food
 
@@ -52,4 +61,6 @@
 | Masala Chai | ginger, cardamom, nutmeg, cinnamon, cloves, black pepper, black tea leaves, hot water and hot milk.                                                                                                                                      | <img src="https://www.thespicehouse.com/cdn/shop/articles/Chai_Masala_Tea_1200x1200.jpg?v=1606936195" width=400> |  350฿ |
 | Soju        | soju is distilled from fermented rice, or optionally wheat, barley, sweet potatoes, or tapioca. It is believed that it initially appeared when Mongols introduced the distilling technique to the Koreans, sometime in the 13th century. | <img src="images/Soju.jpg" width="400">                                                                          |  135฿ |
 | Calpis | Calpis is a popular non-carbonated soft drink in Japan that is enjoyed by people of all ages. | <img src="images/Calpis.jpeg" width="300"/> | 25฿ |
+| Prosecco    | A sparkling white wine from northern Italy, Prosecco’s popularity has grown massively over the last decade. Today, it’s one of the most famous Italian drinks inside and outside the country.    | <img src="images/prosecco.jpg" width="400"> |   100฿ |
+
 
