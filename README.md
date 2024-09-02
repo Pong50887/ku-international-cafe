@@ -1,4 +1,4 @@
-# KU Cafe
+# KU International Cafe
 
 Section1 | Section2 | Section3 | ...
 
@@ -26,7 +26,8 @@ To find out what `|:---` and `---:|` mean, look at one of the Markdown reference
 
 **TODO**: Each person add yourself to this table; Points **deducted** if one person adds everyone. Name means name, **no student ids**.
 
-| Name                 | Role        | Github          |
-|:---------------------|-------------|-----------------|
-| Nantawan Paramapooti | Indian Menu | @Karczel        |
+| Name                        | Role                           | Github          |
+|:----------------------------|--------------------------------|-----------------|
+| Phimnada Chirachotsuphaphat | [Thai Food](menu.md#thai-food) | [PHIMNADA024](https://github.com/PHIMNADA024) |
+| Nantawan Paramapooti | [Indian Menu](menu.md#indian-food) | [Karczel](https://github.com/Karczel)        |
 
