@@ -1,6 +1,7 @@
 # KU Cafe
 
-Section1 | Section2 | Section3 | ...
+Section1 | Section2 | [Japanese Menu](/Menu.md#japanese-menu)
+ | ...
 
 **TODO**: Convert the useless "Section1 | Section2 ..." to a **single line** containing hyperlinks to each section of the menu.
 You learned the Markdown to do this in the `git-commands` assignments.    
@@ -24,7 +25,6 @@ To find out what `|:---` and `---:|` mean, look at one of the Markdown reference
 
 ## About Us
 
-**TODO**: Each person add yourself to this table; Points **deducted** if one person adds everyone. Name means name, **no student ids**.
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|

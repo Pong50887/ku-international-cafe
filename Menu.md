@@ -1,6 +1,5 @@
 # KU Cafe Menu
 
-[Japanese Menu](#japanese-menu)
 
 ## Thai Menu
 
