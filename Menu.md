@@ -24,3 +24,9 @@
 | Pad Ka Prao   | Pad Ka Prao is a spicy Thai stir-fry made with minced meat (usually pork or chicken), fresh Thai basil, garlic, and chilies. It's savory, aromatic, and often served with rice and a fried egg on top.                                                                     | <img src="images/pad_ka_prao.jpg" width=400>   |   45฿ |
 | Som Tam       | Som Tam is a spicy and tangy Thai green papaya salad made with shredded papaya, chilies, lime, fish sauce, and peanuts. It’s a refreshing dish with a perfect balance of sweet, sour, and spicy flavors.                                                                   | <img src="images/som_tam.jpg" width=400>       |   70฿ |
 | Nam Tok Moo   | Nam Tok Moo is a spicy Thai salad made with grilled pork, tossed with lime juice, fish sauce, chilies, and fresh herbs like mint and cilantro. It's a flavorful dish with a mix of tangy, spicy, and savory notes.                                                         | <img src="images/namtok_moo.jpg" width=400>    |   65฿ |
+
+## Beverages
+| Name    | Description                                                                                                                                                                                             | Image                                    | Price |
+|:--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|------:|
+| Cha Yen | Cha Yen is a Thai iced tea made with strongly brewed black tea, sweetened with condensed milk, and served over ice. It has a rich, creamy flavor with a hint of vanilla and a distinctive orange color. | <img src="images/cha_yen.jpg" width=400> |   30฿ |
+
