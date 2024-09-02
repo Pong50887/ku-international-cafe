@@ -1,6 +1,8 @@
 # KU Cafe Menu
 
-[Indian Food](#indian-food) | [Korean Food](#korean-food) | [Thai Food](#thai-food)
+
+[Indian Food](#indian-food) | [Korean Food](#korean-food) | [Thai Food](#thai-food) | [Japanese Menu](#japanese-food)
+
 
 ## Indian Food Menu
 
@@ -21,6 +23,16 @@
 | **Bulgogi**     | a Korean dish consisting of rice topped with sautéed vegetables, chili paste, and beef or other meat, sometimes with the addition of a raw or fried egg.                                                                     | <img src="images/Bulgogi.jpg" width="400">     | 150฿  |
 | **Samgyeopsal** | Samgyeopsal is another staple Korean dish that requires few culinary skills, where chunky slices of pork belly are cooked on a grill at the diners’ table.                                                                   | <img src="images/Samgyeopsal.jpg" width="400"> | 200฿  |
 
+## Japanese Food
+
+|Name    | Description | Images | Price(Baht) |
+|:------|:----------|-------------|----:| 
+| Katsudon | Katsudon is a popular Japanese dish consisting of tonkatsu and eggs served over rice.   |   ![Katsudon](images/Katsudon.jpeg)  |  169฿|
+| Oyakodon | Japanese rice bowl dish, in which chicken, egg, sliced scallion, and other ingredients are all simmered together in a kind of soup, and then served on top of a large bowl of rice.  | ![Oyakodon](images/Oyakodon.jpeg) | 149฿ |
+| Salmon donburi | Salmon Donburi is a delicious Japanese rice bowl topped with tender salmon fillets with hints of lemon and garlic to make the perfect salty-sweet complement. | ![Salmon donburi](images/SalmonDonburi.jpeg) | 189฿ |
+| Okonomiyaki  | A savory pancake and is made with vegetables, meat, seafood, and other ingredients, cooked on a griddle with flour-based batter and served with special sauce. | ![Okonomiyaki](images/Okonomiyaki.jpeg) | 159฿ |
+
+
 ## Thai Food
 
 | Name          | Description                                                                                                                                                                                                                                                                | Image                                          | Price |
@@ -31,9 +43,13 @@
 | Som Tam       | Som Tam is a spicy and tangy Thai green papaya salad made with shredded papaya, chilies, lime, fish sauce, and peanuts. It’s a refreshing dish with a perfect balance of sweet, sour, and spicy flavors.                                                                   | <img src="images/som_tam.jpg" width=400>       |   70฿ |
 | Nam Tok Moo   | Nam Tok Moo is a spicy Thai salad made with grilled pork, tossed with lime juice, fish sauce, chilies, and fresh herbs like mint and cilantro. It's a flavorful dish with a mix of tangy, spicy, and savory notes.                                                         | <img src="images/namtok_moo.jpg" width=400>    |   65฿ |
 
+
 ## Beverages
+
 | Name        | Description                                                                                                                                                                                                                              | Image                                                                                                            | Price |
 |:------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|------:|
 | Cha Yen     | Cha Yen is a Thai iced tea made with strongly brewed black tea, sweetened with condensed milk, and served over ice. It has a rich, creamy flavor with a hint of vanilla and a distinctive orange color.                                  | <img src="images/cha_yen.jpg" width=400>                                                                         |   30฿ |
 | Masala Chai | ginger, cardamom, nutmeg, cinnamon, cloves, black pepper, black tea leaves, hot water and hot milk.                                                                                                                                      | <img src="https://www.thespicehouse.com/cdn/shop/articles/Chai_Masala_Tea_1200x1200.jpg?v=1606936195" width=400> |  350฿ |
 | Soju        | soju is distilled from fermented rice, or optionally wheat, barley, sweet potatoes, or tapioca. It is believed that it initially appeared when Mongols introduced the distilling technique to the Koreans, sometime in the 13th century. | <img src="images/Soju.jpg" width="400">                                                                          |  135฿ |
+| Calpis | Calpis is a popular non-carbonated soft drink in Japan that is enjoyed by people of all ages. | <img src="images/Calpis.jpeg" width="300"/> | 25฿ |
+
