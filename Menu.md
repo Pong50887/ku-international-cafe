@@ -21,6 +21,11 @@
 
 ## Korean Menu
 
+## Beverages
+
+|Name    | Description | Images | Price(Baht) |
+|:------|:----------|-------------|----:|
+| Calpis | Calpis is a popular non-carbonated soft drink in Japan that is enjoyed by people of all ages. | <img src="images/Calpis.jpeg" width="300"/> | 25฿ |
 
 
 ---
