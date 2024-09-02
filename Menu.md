@@ -1,7 +1,7 @@
 # KU Cafe Menu
 
 
-[Indian Food](#indian-food) | [Korean Food](#korean-food) | [Thai Food](#thai-food) | [Japanese Menu](#japanese-food)
+[Indian Food](#indian-food) | [Korean Food](#korean-food) | [Thai Food](#thai-food) | [Japanese Food](#japanese-food)
 
 
 ## Indian Food Menu
