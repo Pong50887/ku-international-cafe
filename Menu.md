@@ -2,7 +2,6 @@
 [Korean Food](#korean-food)
 
 ## Korean Food
-
 | Name            | Description                                                                                                                                                                                                                  | Images                                         | Price |
 |:----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|-------|
 | **Kimchi**      | Kimchi is a traditional Korean fermented dish made from vegetables, primarily napa cabbage, seasoned with a mixture of spices and seasonings, resulting in a flavorful and tangy condiment                                   | <img src="images/Kimchi.jpg" width="300">      | 30฿   |
@@ -11,3 +10,7 @@
 | **Bulgogi**     | a Korean dish consisting of rice topped with sautéed vegetables, chili paste, and beef or other meat, sometimes with the addition of a raw or fried egg.                                                                     | <img src="images/Bulgogi.jpg" width="300">     | 150฿  |
 | **Samgyeopsal** | Samgyeopsal is another staple Korean dish that requires few culinary skills, where chunky slices of pork belly are cooked on a grill at the diners’ table.                                                                   | <img src="images/Samgyeopsal.jpg" width="300"> | 200฿  |
 
+## Beverages
+| Name     | Description                                                                                                                                                                                                                              | Images                                  | Price |
+|:---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------|
+| **Soju** | soju is distilled from fermented rice, or optionally wheat, barley, sweet potatoes, or tapioca. It is believed that it initially appeared when Mongols introduced the distilling technique to the Koreans, sometime in the 13th century. | <img src="images/Soju.jpg" width="300"> | 135฿  |
