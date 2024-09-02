@@ -1,7 +1,7 @@
 # KU International Cafe
 
 
-| Name                        | Role                    | Github      |
-|:----------------------------|-------------------------|-------------|
-| Phimnada Chirachotsuphaphat | [Thai Food](#thai-food) | PHIMNADA024 |
+| Name                        | Role                           | Github                                        |
+|:----------------------------|--------------------------------|-----------------------------------------------|
+| Phimnada Chirachotsuphaphat | [Thai Food](menu.md#thai-food) | [PHIMNADA024](https://github.com/PHIMNADA024) |
 
